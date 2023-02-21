@@ -1,0 +1,72 @@
+.add{
+    font-family:"verdana";
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.form{
+    border: 1px solid black;
+    /* margin-left: 350px; */
+    margin-top: 30px;
+    height: 99%;
+    width: 630px;
+    padding-left: 20px;
+    display: block;
+}
+.section{
+    padding-top: 10px;
+}
+#section1{
+    padding-top: 10px;
+}
+#nameLabel{
+    margin-top:5px;
+    height: 25px;
+    width: 400px;
+}
+.nameLabel{
+    margin-top:5px;
+    height: 25px;
+    width: 400px;
+}
+.email{
+    margin-top:5px;
+    height: 25px;
+    width: 400px;
+}
+.mobile{
+    margin-top:5px;
+    height: 25px;
+    width: 185px;
+}
+.landlineText{
+    height: 25px;
+    width: 190px;
+}#landline{
+    margin-top:5px;
+    margin-left: 22px;
+}
+.website{
+    margin-top:5px;
+    height: 25px;
+    width: 400px;
+}
+.address{
+    margin-top:5px;
+    height: 65px;
+    width: 400px;
+}
+.mobileSection{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.button{
+    height: 30px;
+    width: 98px;
+    background-color: #468c00;
+    border-color: #468c00;
+    color:white;
+    font-size:12px;
+    margin-left: 410px;
+    margin-top: 10px;
+}

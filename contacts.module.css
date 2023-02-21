@@ -1,0 +1,27 @@
+table{
+    border: 1px solid black;
+}
+.person{
+    padding: auto;
+    border: 1px solid #636363;
+    padding-left:14px ;
+}
+.person{
+    padding: auto;
+    border: 1px solid #636363;
+    padding-left:14px ;
+}
+.person:hover{
+    background-color: #cee7f2;
+}
+.name{
+    font-size: 23px;
+    font-family: "Century Gothic";
+    padding: 5px 30px 5px 0px;
+}
+.phNo{
+    padding-bottom: 10px;
+}
+.person:hover{
+    background-color: #cee7f2;
+}

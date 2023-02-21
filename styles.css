@@ -1,0 +1,5 @@
+.Display{
+    width: 1030px;
+    display: inline-flex;
+    flex-direction: row;
+}

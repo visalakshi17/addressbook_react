@@ -1,0 +1,103 @@
+.details{
+    display: none;
+    margin-top: 50px;
+    margin-left: 60px;
+    width: 500px;
+    padding-bottom: 10px;
+    font-family: verdana;
+    font-size: 13px;
+    color: #636363;
+}
+.id{
+    display: none;
+}
+.topSection{
+    display: flex;
+}
+.edit{
+    justify-content: space-between;
+    display: inline-flex;
+    width: 71px;
+    padding-top: 9.5px;
+}
+.delete{
+    display: inline-flex;
+    width: 95px;
+    padding-right: 5px;
+    padding-left: 15px;
+    position: relative;
+    bottom: 5px;
+}
+.nameSection{
+    width: 350px;
+    flex:60%;
+    font-size: 30px;
+    font-family: verdana;
+    color: black;
+}
+#nameSection{
+    border: none;
+    background:none;
+    color:black;
+    font-family: verdana;
+}
+.topSection img{
+    height: 18px;
+}
+#dltImg{
+    height: 25px;
+    padding-top:14px;
+}
+#editImg{
+    padding-bottom:5px;
+    width: 15px;
+}
+#dltText{
+    padding-top:14px;
+}
+.mailSection{
+    padding-top: 15px;
+}
+#mailSection{
+    padding-top: 15px;
+    border: none;
+    background:none;
+    font-family: verdana;
+    color: #636363;
+    width: 500px;
+}
+.mobileSection{
+    flex-direction: column;
+    padding-top: 15px;
+}
+#mobilSection{
+    border: none;
+    background:none;
+    font-family: verdana;
+    color: #636363;
+    width: 500px;
+}
+#landline {
+    margin-top: 0px;
+    margin-left: 0px; 
+}
+#landlineSection{
+    border: none;
+    background:none;
+    font-family: verdana;
+    color: #636363;
+    width: 500px;
+}
+.websiteSection{
+    padding-top: 15px;
+}
+.addressSection{
+    padding-top: 15px;
+}
+#addresSection{
+    border: none;
+    background:none;
+    font-family: verdana;
+    color: #636363;
+    width: 500px;
+}
